@@ -1,1 +1,1 @@
-A Fluter project which has Multiple Screens
+A Flutter project which has Multiple Screens.
