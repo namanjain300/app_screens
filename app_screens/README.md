@@ -1,4 +1,4 @@
-# instagram
+# app_screens
 
 A new Flutter project.
 
